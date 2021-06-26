@@ -1,6 +1,11 @@
+import { Button } from './components/Button';
+
 function App() {
   return (
-      <h1>Hello Wordl</h1>
+      <div>
+        <Button text="Clique aqui"/>
+        <Button />
+      </div>
   );
 }
 
